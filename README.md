@@ -80,11 +80,7 @@ I am actively building out scalable distributed systems, deep-diving into low-le
 
 <img src="https://streak-stats.demolab.com?user=RTiwari-06&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<!-- ====== ANIMATED CONTRIBUTION ACTIVITY GRAPH ====== -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RTiwari-06&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
-
-<!-- ====== ANIMATED CONTRIBUTION SNAKE (requires the Action in step 3 below) ====== -->
-<img src="https://raw.githubusercontent.com/RTiwari-06/RTiwari-06/output/snake.svg" alt="Contribution snake animation" />
 
 </div>
 
@@ -98,5 +94,3 @@ I am actively building out scalable distributed systems, deep-diving into low-le
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RTiwari-06)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer)
-
-</div>
