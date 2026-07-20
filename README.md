@@ -69,21 +69,28 @@ I am actively building out scalable distributed systems, deep-diving into low-le
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RTiwari-06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Raj's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RTiwari-06&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=RTiwari-06&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RTiwari-06&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 
 </div>
 
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- ====== TROPHIES ====== -->
+<img src="https://github-profile-trophy.vercel.app/?username=RTiwari-06&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="GitHub trophies" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=RTiwari-06&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RTiwari-06&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+
+<!-- ====== ANIMATED CONTRIBUTION SNAKE ====== -->
+<img src="https://raw.githubusercontent.com/RTiwari-06/RTiwari-06/output/snake.svg" alt="Contribution snake animation" />
+
+</div>
 ---
 
 ### 🔗 Connect
